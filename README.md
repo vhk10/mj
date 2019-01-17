@@ -1,5 +1,5 @@
 # mj
-script to facilitate score calculation at the end of a Mah Jongg hand
+script to facilitate score calculation at the end of a Mah Jongg hand.  Given the points score of each hand, it calculates how much each player owes the others.  For versions of the rules where the three losing players score up amongst themselves.
 
 HISTORY
 This app was released on the market in January 2019. 
